@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtoni1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning full-stack software engineering and business analytics
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me michellewambaya2@gmail.com
 
